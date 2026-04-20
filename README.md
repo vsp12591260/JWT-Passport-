@@ -101,9 +101,10 @@ Response:
 Vivek SP
 
 ### Commands
-git init
+```git init
 git add .
 git commit -m "Initial commit - Passport JWT Auth"
 git branch -M main
 git remote add origin <your-repo-url>
 git push -u origin main
+```
